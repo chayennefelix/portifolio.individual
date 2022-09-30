@@ -1,0 +1,100 @@
+body{
+    color:black;
+    text-align: center;
+    font-family:cursive;
+    background-color: antiquewhite;
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-image:url(fundo2.jpg)
+}
+
+.container{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.mainav{
+  
+    
+}
+
+.mainav li {
+    display: inline;
+    padding: 5%;
+}
+
+.mainav li a{
+    text-decoration: none;
+    font-size: 14px;
+    color:white;
+    text-align: center;
+}
+
+.mainav li a:hover, a:active{
+    text-decoration: none;
+    color: white;
+    background-color: #271900;
+    text-align: center;
+}
+
+.titulo {
+margin-top: 5%;
+
+}
+
+.content{
+    width: 60%;
+    float:left;
+    background-color:pink;
+    font-size: 100%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 7%;
+    margin-left: 3%;
+    text-align: center;
+}
+
+.content p{
+    text-align: center;
+    width: 30%;
+    float: left;
+    background-color: pink;
+    font-size: 90%;
+    padding-left: 3%;
+    padding-right: 3%;
+    
+}
+
+.contentc{
+    text-align: center;
+    width: 30%;
+    float:left;
+    background-color: pink;
+    font-size: 90%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 15%;
+    margin-left: 15%;
+
+
+}
+
+.mainleft{
+    float:right;
+    width: 30%;
+    font-size: 100%;
+    padding-left: 2%;
+    padding-right: 0%;
+    margin-left:-6%;
+   
+}
+
+
+.contentp{
+    width: 100%;
+    background-color: white;
+    font-size: 90%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+}
